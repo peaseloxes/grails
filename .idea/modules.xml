@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/grailsWorkshop.iml" filepath="$PROJECT_DIR$/grailsWorkshop.iml" />
-      <module fileurl="file://$PROJECT_DIR$/grailsWorkshop-grailsPlugins.iml" filepath="$PROJECT_DIR$/grailsWorkshop-grailsPlugins.iml" />
+      <module fileurl="file://$PROJECT_DIR$/grails.iml" filepath="$PROJECT_DIR$/grails.iml" />
     </modules>
   </component>
 </project>

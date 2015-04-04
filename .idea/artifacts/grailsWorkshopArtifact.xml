@@ -1,6 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="war" name="grailsWorkshopArtifact">
-    <output-path>$PROJECT_DIR$/out/artifacts/grailsWorkshopArtifact</output-path>
-    <root id="archive" name="grailsWorkshopArtifact.war" />
-  </artifact>
-</component>
